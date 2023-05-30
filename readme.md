@@ -1,3 +1,3 @@
-I need to watch more lectures on the ...philosophy... of computer science, programming, and engineering.
+In addition to learning to write the code, design the algorithms, and so on, I would like to understand the philosophy of computer science, programming, and engineering. What is being debated with respect to the future of software development? Where has the industry gone wrong? What is the implicit metaphysics of OOP?
 
-I'll store my notes here and push them to GitHub to keep a record of my thoughts as I learn more about the concrete and abstract problems in this profession that I am hoping to enter.
+I'll watch lectures, probably mostly on YouTube, record my notes here, and push them to GitHub. Probably nobody will read them (not even me), but it will be good to have a record of my work to orient myself philosophically in this area.
